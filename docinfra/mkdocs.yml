@@ -1,0 +1,5 @@
+site_name: Infraestrutura de TI
+markdown_extensions:
+    - admonition
+plugins:
+    - search
